@@ -1,0 +1,8 @@
+.tag-line{
+    color: gray;
+    font-size: 30px;
+    font-weight: 600;
+}
+.navigation-content{
+    border-bottom: 4px double lightgray;
+}
